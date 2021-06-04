@@ -1,5 +1,5 @@
 # Oi me chamo Moisés 👋
- <img  src="https://github.com/monza99/monza99/blob/main/Web%20developer.png?raw=true"  width = "400px" align = "right" alt = "computer">
+ <img  src="https://github.com/monza99/monza99/blob/main/Web%20developer.png?raw=true"  width = "200px" align = "right" alt = "computer">
 
  
 <p align = "left">
