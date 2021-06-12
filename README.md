@@ -3,7 +3,7 @@
 
  
 <p align = "left">
-Sou estudante em <strong> desenvolvimento Front-End, </strong> moro em Minas Gerais tenho 21 anos, e gosto de criar e resolver problemas. 🚀 </ h2>
+Sou estudante em <strong> desenvolvimento Front-End, </strong> moro em Minas Gerais tenho 21 anos, e gosto de criar sites e ajudar a resolver problemas. 🚀 </ h2>
 <p align = "left"> Atualmente estudando as seguintes tecnologias: </p>
     <img align = "left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"  align = "left" width = "40px" style = "max-width: 100% ; "> <img align = "left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"  width = "40px" style = "max-width: 100% ; "> <img  align = "left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"  width = "40px" style = "max-width: 100% ; "> <img align = "left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"  width = "40px" style = "max-width: 100% ; "> </p>
     <br>
