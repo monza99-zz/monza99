@@ -9,7 +9,7 @@ Sou estudante em <strong> desenvolvimento Front-End, </strong> moro em Minas Ger
     <br>
 
 ![monza99 GitHub Stats](https://github-readme-stats.vercel.app/api?username=monza99&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monza99&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/monza99/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monza99&langs_count=8&show_icons=true&theme=tokyonight)](https://github.com/monza99/github-README-stats)
 
 <h4> contato:  </h4>
   <a a target="_blank" href="https://www.linkedin.com/in/moises-alves-9b94b5160/">
